@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/thetuitionweb/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/thetuitionweb/static/js/main.4bce9151.chunk.js",
+    "main.js.map": "/thetuitionweb/static/js/main.4bce9151.chunk.js.map",
+    "runtime-main.js": "/thetuitionweb/static/js/runtime-main.5eca7d06.js",
+    "runtime-main.js.map": "/thetuitionweb/static/js/runtime-main.5eca7d06.js.map",
+    "static/js/2.e310c12d.chunk.js": "/thetuitionweb/static/js/2.e310c12d.chunk.js",
+    "static/js/2.e310c12d.chunk.js.map": "/thetuitionweb/static/js/2.e310c12d.chunk.js.map",
+    "static/js/3.7380949c.chunk.js": "/thetuitionweb/static/js/3.7380949c.chunk.js",
+    "static/js/3.7380949c.chunk.js.map": "/thetuitionweb/static/js/3.7380949c.chunk.js.map",
+    "index.html": "/thetuitionweb/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/thetuitionweb/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e310c12d.chunk.js.LICENSE.txt": "/thetuitionweb/static/js/2.e310c12d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/thetuitionweb/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5eca7d06.js",
+    "static/js/2.e310c12d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.4bce9151.chunk.js"
+  ]
+}
