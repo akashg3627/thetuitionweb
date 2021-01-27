@@ -1,14 +1,13 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import {BrowserRouter} from 'react-router-dom';
+import Main from "./Components/Main";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <h1>The Tuition</h1>
-        <h2>By Rishab Gupta</h2>
-      </header>
-    </div>
+    <BrowserRouter>
+    <Main />
+    </BrowserRouter>
   );
 }
 
