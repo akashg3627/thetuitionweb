@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "/thetuitionweb/static/css/main.53c48399.chunk.css",
-    "main.js": "/thetuitionweb/static/js/main.a0c820ae.chunk.js",
-    "main.js.map": "/thetuitionweb/static/js/main.a0c820ae.chunk.js.map",
-    "runtime-main.js": "/thetuitionweb/static/js/runtime-main.5f777475.js",
-    "runtime-main.js.map": "/thetuitionweb/static/js/runtime-main.5f777475.js.map",
+    "main.js": "/thetuitionweb/static/js/main.83d2c2d5.chunk.js",
+    "main.js.map": "/thetuitionweb/static/js/main.83d2c2d5.chunk.js.map",
+    "runtime-main.js": "/thetuitionweb/static/js/runtime-main.25da4c3d.js",
+    "runtime-main.js.map": "/thetuitionweb/static/js/runtime-main.25da4c3d.js.map",
     "static/css/2.c0a2e32e.chunk.css": "/thetuitionweb/static/css/2.c0a2e32e.chunk.css",
-    "static/js/2.6ca0bf49.chunk.js": "/thetuitionweb/static/js/2.6ca0bf49.chunk.js",
-    "static/js/2.6ca0bf49.chunk.js.map": "/thetuitionweb/static/js/2.6ca0bf49.chunk.js.map",
-    "static/js/3.63a76a94.chunk.js": "/thetuitionweb/static/js/3.63a76a94.chunk.js",
-    "static/js/3.63a76a94.chunk.js.map": "/thetuitionweb/static/js/3.63a76a94.chunk.js.map",
+    "static/js/2.b8be765d.chunk.js": "/thetuitionweb/static/js/2.b8be765d.chunk.js",
+    "static/js/2.b8be765d.chunk.js.map": "/thetuitionweb/static/js/2.b8be765d.chunk.js.map",
+    "static/js/3.feb72679.chunk.js": "/thetuitionweb/static/js/3.feb72679.chunk.js",
+    "static/js/3.feb72679.chunk.js.map": "/thetuitionweb/static/js/3.feb72679.chunk.js.map",
     "index.html": "/thetuitionweb/index.html",
     "static/css/2.c0a2e32e.chunk.css.map": "/thetuitionweb/static/css/2.c0a2e32e.chunk.css.map",
     "static/css/main.53c48399.chunk.css.map": "/thetuitionweb/static/css/main.53c48399.chunk.css.map",
-    "static/js/2.6ca0bf49.chunk.js.LICENSE.txt": "/thetuitionweb/static/js/2.6ca0bf49.chunk.js.LICENSE.txt",
+    "static/js/2.b8be765d.chunk.js.LICENSE.txt": "/thetuitionweb/static/js/2.b8be765d.chunk.js.LICENSE.txt",
     "static/media/akash.6d902539.jpg": "/thetuitionweb/static/media/akash.6d902539.jpg",
     "static/media/font-awesome.min.css": "/thetuitionweb/static/media/fontawesome-webfont.f691f37e.woff",
     "static/media/logo.62a5ec7e.jpg": "/thetuitionweb/static/media/logo.62a5ec7e.jpg",
     "static/media/rishabh.bd5be5c3.jpg": "/thetuitionweb/static/media/rishabh.bd5be5c3.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5f777475.js",
+    "static/js/runtime-main.25da4c3d.js",
     "static/css/2.c0a2e32e.chunk.css",
-    "static/js/2.6ca0bf49.chunk.js",
+    "static/js/2.b8be765d.chunk.js",
     "static/css/main.53c48399.chunk.css",
-    "static/js/main.a0c820ae.chunk.js"
+    "static/js/main.83d2c2d5.chunk.js"
   ]
 }
