@@ -3,7 +3,7 @@ import rishabh from '../images/rishabh.jpg';
 
 function About(props) {
     return (
-        <div className="container">
+        <section className="container" id="about">
             <div className="bg-w tt-card tt-c-b">
                 <div className="row">
                     <div className="col-12 col-sm-5"><img src={rishabh} className="tt-img-f" alt="founder" width="80%" /></div>
@@ -29,7 +29,7 @@ function About(props) {
                     </figcaption>
                 </figure>
             </div>
-        </div>
+        </section>
     );
 }
 

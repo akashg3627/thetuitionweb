@@ -1,11 +1,10 @@
 import React from 'react';
 import { Image } from 'react-bootstrap';
-import { Card, CardTitle } from 'reactstrap';
 import view1 from '../images/akash.jpg';
 
 function Home(props) {
     return (
-        <div>
+        <div id="home" >
             <div className="row">
                 <Image fluid src={view1} width="100%" height="700px" alt="abc" />
             </div>

@@ -1,6 +1,8 @@
 import React from 'react';
 import { Col, Nav, Navbar, Row } from 'react-bootstrap';
-import logo from '../images/logo.jpg'
+import logo from '../images/logo.jpg';
+
+import {Link} from 'react-scroll';
 
 function Header(props) {
   return (
@@ -10,16 +12,16 @@ function Header(props) {
         
         <Navbar.Brand  href="/home">
           <Col>
-            <Row><Col><img src={logo} width="60rem" height="60rem" /></Col><Col className="tt-logo-h align-self-center">The Tuition</Col></Row>
+            <Row><Col><img src={logo} width="60rem" height="60rem" alt="logo"/></Col><Col className="tt-logo-h align-self-center">The Tuition</Col></Row>
             {/* <Row className="tt-logo-ss">The way to prepare yourself</Row> */}
           </Col>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="m-auto">
-            <Nav.Link href="/home">Home</Nav.Link>
-            <Nav.Link href="/about">About</Nav.Link>
-            <Nav.Link href="/contact">Contact</Nav.Link>
+            <Nav.Link><Link to="home" spy={true} smooth={true} offset={-70} duration={500}>Home</Link></Nav.Link>
+            <Nav.Link><Link to="about" spy={true} smooth={true} offset={-70} duration={500}>About</Link></Nav.Link>
+            <Nav.Link><Link to="contact" spy={true} smooth={true} offset={-70} duration={500}>Contact</Link></Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Navbar>

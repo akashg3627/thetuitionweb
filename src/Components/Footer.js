@@ -1,5 +1,5 @@
 import React from 'react';
-import {Link} from 'react-router-dom';
+import {Link} from 'react-scroll';
 
 function Footer(props) {
     return (
@@ -8,9 +8,9 @@ function Footer(props) {
                     <div className="col-4 offset-1 col-sm-2">
                         <h5>Links</h5>
                         <ul className="list-unstyled">
-                            <li><Link to='/home'>Home</Link></li>
-                            <li><Link to='/about'>About Us</Link></li>
-                            <li><Link to='/contact'>Contact Us</Link></li>
+                            <li><Link to="home"  spy={true} smooth={true} offset={-70} duration={500}>Home</Link></li>
+                            <li><Link to="about"  spy={true} smooth={true} offset={-70} duration={500}>About Us</Link></li>
+                            <li><Link to="contact"  spy={true} smooth={true} offset={-70} duration={500}>Contact Us</Link></li>
                         </ul>
                     </div>
                     <div className="col-7 col-sm-5">

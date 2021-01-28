@@ -1,9 +1,9 @@
 import React from 'react';
-import {Form, FormGroup, Label, Input, Button, FormText} from 'reactstrap';
+import {Form, FormGroup, Label, Input, Button} from 'reactstrap';
 
 function Contact(props) {
     return (
-        <div className="container">
+        <section id="contact" className="container">
             <div className="row tt-card bg-w tt-c-b">
                 <div className="col-12 col-sm-6">
                 <h3>Contact Us</h3>
@@ -32,7 +32,7 @@ function Contact(props) {
 </div>
             </div>
             
-        </div>
+        </section>
     );
 }
 
